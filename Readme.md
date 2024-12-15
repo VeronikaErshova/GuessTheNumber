@@ -19,7 +19,7 @@
 
 ```bash
 git clone https://github.com/VeronikaErshova/GuessTheNumber.git
-cd guessing_game
+cd GuessTheNumber
 ```
 
 ### Сборка Docker-образа
