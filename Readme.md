@@ -18,7 +18,7 @@
 Сначала клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ваш_пользователь/guessing_game.git
+git clone https://github.com/VeronikaErshova/GuessTheNumber.git
 cd guessing_game
 ```
 
